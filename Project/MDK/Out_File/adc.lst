@@ -1,0 +1,94 @@
+C251 COMPILER V5.60.0,  adc                                                                11/03/23  19:11:28  PAGE 1   
+
+
+C251 COMPILER V5.60.0, COMPILATION OF MODULE adc
+OBJECT MODULE PLACED IN .\Out_File\adc.obj
+COMPILER INVOKED BY: C:\Learning\Keil_v5\body\C251\BIN\C251.EXE adc.c XSMALL INTR2 WARNINGLEVEL(3) BROWSE INCDIR(..\..\L
+                    -ibraries\libraries;..\..\Libraries\seekfree_libraries;..\..\Libraries\seekfree_peripheral;..\CODE;..\USER\inc;..\USER\sr
+                    -c;..\MDK) DEBUG PRINT(.\Out_File\adc.lst) TABS(2) OBJECT(.\Out_File\adc.obj) 
+
+stmt  level    source
+
+    1          //¸ÃÎÄ¼þÓÃÓÚ½«Ê¹ÓÃADC²É¼¯µ½µÄµç¸ÐÊä³öÖµ±ä»¯Îª¶æ»úÆ«²îÖµ£¬²¢½«ÏàÓ¦Êý¾ÝÂ¼Èë¶æ»úÆ«²î½á¹¹ÌåÖÐ
+    2          
+    3          #include "adc.h"
+    4          
+    5          void calculate_s(DG_State* dg ,Err_Steering* Err_Ste )//¸ù¾Ýµç¸Ð×´Ì¬¼ÆËãÆ«²îÖµ£¬²¢¸üÐÂÆ«²îÖµ½á¹¹ÌåÖÐlastÁ
+             -¿£¬½á¹û±£´æÔÚ¶æ»úÆ«²îÖµ½á¹¹ÌåÖÐ
+    6          {
+    7   1          dg->L_zx_real= (ADC_ReadAverage(ZX, count_dg, RE));
+    8   1          dg->L_zh_real= (ADC_ReadAverage(ZH, count_dg, RE));
+    9   1          dg->L_zs_real= (ADC_ReadAverage(ZS, count_dg, RE));
+   10   1          dg->L_ys_real= (ADC_ReadAverage(YS, count_dg, RE));
+   11   1          dg->L_yh_real= (ADC_ReadAverage(YH, count_dg, RE));
+   12   1          dg->L_yx_real= (ADC_ReadAverage(YX, count_dg, RE));
+   13   1      //ÇóÈ¡10´Î²ÉÑùÆ½¾ùÖµ×÷ÎªÕæÊµÖµ
+   14   1      
+   15   1      
+   16   1          dg->L_zx_real= dg->L_zx_real>=1?dg->L_zx_real:1;
+   17   1          dg->L_zh_real= dg->L_zh_real>=1?dg->L_zh_real:1;
+   18   1          dg->L_zs_real= dg->L_zs_real>=1?dg->L_zs_real:1;
+   19   1          dg->L_ys_real= dg->L_ys_real>=1?dg->L_ys_real:1;
+   20   1          dg->L_yh_real= dg->L_yh_real>=1?dg->L_yh_real:1;
+   21   1          dg->L_yx_real= dg->L_yx_real>=1?dg->L_yx_real:1;
+   22   1      //Ê¹²ÉÑù×îÐ¡ÖµÎª1
+   23   1        
+   24   1          dg->L_zx_once=(sqrt(((float)dg->L_zx_real)/(dg->L_zx_max)));
+   25   1          dg->L_zh_once=(sqrt(((float)dg->L_zh_real)/(dg->L_zh_max)));
+   26   1          dg->L_zs_once=(sqrt(((float)dg->L_zs_real)/(dg->L_zs_max)));
+   27   1          dg->L_ys_once=(sqrt(((float)dg->L_ys_real)/(dg->L_ys_max)));
+   28   1          dg->L_yh_once=(sqrt(((float)dg->L_yh_real)/(dg->L_yh_max)));
+   29   1          dg->L_yx_once=(sqrt(((float)dg->L_yx_real)/(dg->L_yx_max))); 
+   30   1      //µÚÒ»´Î¹éÒ»»¯£¬Ê¹µÃµç¸Ð¾àÀëµç¸Ð×î´óÖµ´¦µÄÎÇºÏ¶ÈÓÃ°Ù·Ö±È±íÊ¾£¬²¢¿ª·½Ê¹µÃÆ«²îºÍÐ¡³µÆ«ÀëÈüµÀµÄ¾àÀë³Éµ¥µ÷¹ØÏ
+             -µ£¨¼´Ïû³ý¼«µã£©£¬Ê¹µÃ¶ªÏß¸üºÃÅÐ¶Ï
+   31   1          
+   32   1          dg->L_zx_twice=(dg->L_zx_once)/(dg->L_zx_once*dg->L_zx_once+dg->L_yx_once*dg->L_yx_once+dg->L_zh_once*d
+             -g->L_zh_once+dg->L_yh_once*dg->L_yh_once);
+   33   1          dg->L_zh_twice=(dg->L_zh_once)/(dg->L_zx_once*dg->L_zx_once+dg->L_yx_once*dg->L_yx_once+dg->L_zh_once*d
+             -g->L_zh_once+dg->L_yh_once*dg->L_yh_once);
+   34   1          dg->L_yh_twice=(dg->L_yh_once)/(dg->L_zx_once*dg->L_zx_once+dg->L_yx_once*dg->L_yx_once+dg->L_zh_once
+             -*dg->L_zh_once+dg->L_yh_once*dg->L_yh_once);
+   35   1          dg->L_yx_twice=(dg->L_yx_once)/(dg->L_zx_once*dg->L_zx_once+dg->L_yx_once*dg->L_yx_once+dg->L_zh_once*d
+             -g->L_zh_once+dg->L_yh_once*dg->L_yh_once);
+   36   1      //µÚ¶þ´Î¹éÒ»»¯£¬ÇóÈ¡ºáµç¸ÐºÍÐ±µç¸ÐÆ«²îÖµÕ¼×ÜµÄ°Ù·Ö±È    
+   37   1          
+   38   1          Err_Ste->Err_x = dg->L_zx_twice - dg->L_yx_twice; 
+   39   1          Err_Ste->Err_h = dg->L_zh_twice - dg->L_yh_twice;
+   40   1          Err_Ste->Err = (-0.6151*(Err_Ste->Err_x)) + (3.3868*(Err_Ste->Err_h));
+   41   1      //ÒÔÉÏÏµÊýÊ¹ÓÃmatlabÄâºÏ£¬Ê¹µÃÆ«²îºÍÐ¡³µÆ«ÀëÈüµÀµÄ¾àÀë³ÉÏßÐÔ¹ØÏµ£¬ÖÁ´Ë£¬Æ«²îºÍÐ¡³µÆ«ÀëÈüµÀµÄ¾àÀë³Éµ¥µ÷ÏßÐ
+             -Ô¹ØÏµ
+   42   1          Err_Ste->Errsum += Err_Ste->Err;
+   43   1          Err_Ste->Errdif = Err_Ste->Err - Err_Ste->Err_last;
+   44   1      //Î»ÖÃÊ½PID»ý·ÖºÍ²î·ÖÔËËã   
+   45   1          Err_Ste->Err_x_last = Err_Ste->Err_x;
+   46   1          Err_Ste->Err_h_last = Err_Ste->Err_h;
+   47   1          Err_Ste->Err_last = Err_Ste->Err;
+   48   1      //Æ«²îÖµ¸üÐÂ
+   49   1      }
+   50          
+C251 COMPILER V5.60.0,  adc                                                                11/03/23  19:11:28  PAGE 2   
+
+
+
+Module Information          Static   Overlayable
+------------------------------------------------
+  code size            =      1044     ------
+  ecode size           =    ------     ------
+  data size            =    ------     ------
+  idata size           =    ------     ------
+  pdata size           =    ------     ------
+  xdata size           =    ------     ------
+  xdata-const size     =    ------     ------
+  edata size           =    ------          4
+  bit size             =    ------     ------
+  ebit size            =    ------     ------
+  bitaddressable size  =    ------     ------
+  ebitaddressable size =    ------     ------
+  far data size        =    ------     ------
+  huge data size       =    ------     ------
+  const size           =    ------     ------
+  hconst size          =    ------     ------
+End of Module Information.
+
+
+C251 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

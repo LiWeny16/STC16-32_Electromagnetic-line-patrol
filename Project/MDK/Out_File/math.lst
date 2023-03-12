@@ -1,0 +1,51 @@
+C251 COMPILER V5.60.0,  math                                                               14/01/22  21:18:34  PAGE 1   
+
+
+C251 COMPILER V5.60.0, COMPILATION OF MODULE math
+OBJECT MODULE PLACED IN .\Out_File\math.obj
+COMPILER INVOKED BY: G:\Keil For C251\C251\BIN\C251.EXE math.c XSMALL INTR2 WARNINGLEVEL(3) BROWSE INCDIR(..\..\Librarie
+                    -s\libraries;..\..\Libraries\seekfree_libraries;..\..\Libraries\seekfree_peripheral;..\CODE;..\USER\inc;..\USER\src;..\MD
+                    -K) DEBUG PRINT(.\Out_File\math.lst) TABS(2) OBJECT(.\Out_File\math.obj) 
+
+stmt  level    source
+
+    1          //该文件用于编写数学运算的函数
+    2          #include "math.h"
+    3          float sqrt(float a)
+    4          {
+    5   1        unsigned int N, i; 
+    6   1          unsigned long tap, ttp;   // 结果、循环计数 
+    7   1          if (a ==0)              // 被开方数，开方结果也为0 
+    8   1              return 0;
+    9   1         N = 0;
+   10   1         tap = (a >> 30);          //获取最高位：B[a-1] 
+*** ERROR C88 IN LINE 10 OF math.c: '>>': invalid left operand type
+   11   1          a <<= 2; 
+*** ERROR C88 IN LINE 11 OF math.c: '<<=': invalid left operand type
+   12   1          if (tap >1)             // 最高位为1 
+   13   1          { 
+   14   2              N++;                // 结果当前位为1，否则为默认的0 
+   15   2              tap -= N; 
+   16   2          }
+   17   1         for (i=15; i>0; i--)      // 求剩余的15位 
+   18   1          { 
+   19   2              N <<=1;             // 左移一位
+   20   2             tap <<= 2; 
+   21   2              tap += (a >>30);     // 假设
+*** ERROR C88 IN LINE 21 OF math.c: '>>': invalid left operand type
+   22   2             ttp = N; 
+   23   2              ttp = (ttp<<1)+1;
+   24   2             a <<= 2; 
+*** ERROR C88 IN LINE 24 OF math.c: '<<=': invalid left operand type
+   25   2              if (tap >=ttp)       // 假设成立 
+   26   2              { 
+   27   3                  tap -=ttp; 
+   28   3                  N ++; 
+   29   3              }
+   30   2         }
+   31   1       
+   32   1         return N; 
+   33   1      
+   34   1      }
+
+C251 COMPILATION COMPLETE.  0 WARNING(S),  4 ERROR(S)
