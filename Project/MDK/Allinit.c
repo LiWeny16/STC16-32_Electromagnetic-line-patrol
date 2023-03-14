@@ -230,5 +230,6 @@ void ALL_init(void)
 	Motor_init();
 	Encoder_init();
   FLAG_init();
+	seekfree_wireless_init();
 	//WIRELESS_init();
 }

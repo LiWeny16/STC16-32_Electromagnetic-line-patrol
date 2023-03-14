@@ -1,4 +1,4 @@
-C251 COMPILER V5.60.0,  Allinit                                                            11/03/23  19:11:28  PAGE 1   
+C251 COMPILER V5.60.0,  Allinit                                                            14/03/23  17:04:35  PAGE 1   
 
 
 C251 COMPILER V5.60.0, COMPILATION OF MODULE Allinit
@@ -66,7 +66,7 @@ stmt  level    source
    55   1      adc_init(ADC_P14,ADC_SYSclk_DIV_2);
    56   1      adc_init(ADC_P15,ADC_SYSclk_DIV_2);
    57   1      */
-C251 COMPILER V5.60.0,  Allinit                                                            11/03/23  19:11:28  PAGE 2   
+C251 COMPILER V5.60.0,  Allinit                                                            14/03/23  17:04:35  PAGE 2   
 
    58   1      //P14、P15为ADC口备用，第一版程序先注释掉
    59   1      }
@@ -134,7 +134,7 @@ stmt  level    source
   116   1      pid_motor.p_motor = 2;//用于存放比例系数p
   117   1      pid_motor.i_motor = 0.5;//用于存放积分系数i
   118   1      pid_motor.d_motor = 1;//用于存放微分系数d
-C251 COMPILER V5.60.0,  Allinit                                                            11/03/23  19:11:28  PAGE 3   
+C251 COMPILER V5.60.0,  Allinit                                                            14/03/23  17:04:35  PAGE 3   
 
   119   1      pid_motor.PID_MOTOR_L_OUT = 0;//用于存放最终输出给电机的左轮PWM增量值
   120   1      pid_motor.PID_MOTOR_R_OUT = 0;//用于存放最终输出给电机的右轮PWM增量值
@@ -202,7 +202,7 @@ stmt  level    source
   182   1      }
   183          
   184          
-C251 COMPILER V5.60.0,  Allinit                                                            11/03/23  19:11:28  PAGE 4   
+C251 COMPILER V5.60.0,  Allinit                                                            14/03/23  17:04:35  PAGE 4   
 
   185          //8.编码器初始化（带串口）
   186          void Encoder_init(void)
@@ -252,13 +252,14 @@ stmt  level    source
   230   1        Motor_init();
   231   1        Encoder_init();
   232   1        FLAG_init();
-  233   1        //WIRELESS_init();
-  234   1      }
+  233   1        seekfree_wireless_init();
+  234   1        //WIRELESS_init();
+  235   1      }
 
 
 Module Information          Static   Overlayable
 ------------------------------------------------
-  code size            =       667     ------
+  code size            =       670     ------
   ecode size           =    ------     ------
   data size            =    ------     ------
   idata size           =    ------     ------
@@ -270,9 +271,9 @@ Module Information          Static   Overlayable
   ebit size            =    ------     ------
   bitaddressable size  =    ------     ------
   ebitaddressable size =    ------     ------
-  far data size        =    ------     ------
-C251 COMPILER V5.60.0,  Allinit                                                            11/03/23  19:11:28  PAGE 5   
+C251 COMPILER V5.60.0,  Allinit                                                            14/03/23  17:04:35  PAGE 5   
 
+  far data size        =    ------     ------
   huge data size       =    ------     ------
   const size           =    ------     ------
   hconst size          =    ------     ------

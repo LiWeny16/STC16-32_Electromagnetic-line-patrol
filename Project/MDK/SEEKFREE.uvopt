@@ -119,13 +119,13 @@
       <TargetDriverDllRegistry>
         <SetRegEntry>
           <Number>0</Number>
-          <Key>DLGTC51</Key>
-          <Name>(94=-1,-1,-1,-1,0)</Name>
+          <Key>MON251</Key>
+          <Name>-S11 -B115200 -O60</Name>
         </SetRegEntry>
         <SetRegEntry>
           <Number>0</Number>
-          <Key>MON251</Key>
-          <Name>-S11 -B115200 -O60</Name>
+          <Key>DLGTC51</Key>
+          <Name>(94=-1,-1,-1,-1,0)</Name>
         </SetRegEntry>
       </TargetDriverDllRegistry>
       <Breakpoint>

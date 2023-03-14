@@ -13,14 +13,14 @@
       <uAC6>0</uAC6>
       <TargetOption>
         <TargetCommonOption>
-          <Device>STC16F40K128 Series</Device>
+          <Device>STC32G12K128 Series</Device>
           <Vendor>STC</Vendor>
-          <Cpu>IRAM(0-0x1FFF) XRAM(0x10000-0x17FFF) IROM(0xFE0000-0xFFFFFF) CLOCK(35000000)</Cpu>
+          <Cpu>IRAM(0-0xFFF) XRAM(0x10000-0x11FFF) IROM(0xFE0000-0xFFFFFF) CLOCK(35000000)</Cpu>
           <FlashUtilSpec></FlashUtilSpec>
           <StartupFile>"LIB\STARTUP251.ASM" ("80251 Startup Code")</StartupFile>
           <FlashDriverDll></FlashDriverDll>
-          <DeviceId>63456</DeviceId>
-          <RegisterFile>STC16F.H</RegisterFile>
+          <DeviceId>63457</DeviceId>
+          <RegisterFile>STC32G.H</RegisterFile>
           <MemoryEnv></MemoryEnv>
           <Cmp></Cmp>
           <Asm></Asm>
@@ -110,11 +110,11 @@
           <SimDllName>S251.DLL</SimDllName>
           <SimDllArguments></SimDllArguments>
           <SimDlgDll>DCORE51.DLL</SimDlgDll>
-          <SimDlgDllArguments>-p251int -ddq80251cfg</SimDlgDllArguments>
+          <SimDlgDllArguments>-p251</SimDlgDllArguments>
           <TargetDllName>S251.DLL</TargetDllName>
           <TargetDllArguments></TargetDllArguments>
           <TargetDlgDll>TCORE51.DLL</TargetDlgDll>
-          <TargetDlgDllArguments>-p251int -ddq80251cfg</TargetDlgDllArguments>
+          <TargetDlgDllArguments>-p251</TargetDlgDllArguments>
         </DllOption>
         <DebugOption>
           <OPTHX>
@@ -217,12 +217,12 @@
               <IRAM>
                 <Type>0</Type>
                 <StartAddress>0x0</StartAddress>
-                <Size>0x2000</Size>
+                <Size>0x1000</Size>
               </IRAM>
               <XRAM>
                 <Type>0</Type>
                 <StartAddress>0x10000</StartAddress>
-                <Size>0x8000</Size>
+                <Size>0x2000</Size>
               </XRAM>
               <Ocm1>
                 <Type>0</Type>
