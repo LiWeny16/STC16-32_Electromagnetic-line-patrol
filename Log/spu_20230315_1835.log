@@ -1,0 +1,2684 @@
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 2
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 4
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 202
+DG_State.L_yh_real = 12
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 26
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 3
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 2
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 3
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 3
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 14
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 2
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 3
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 2
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 2
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 3
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 3
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 4
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 4
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 5
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 2
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 3
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 3
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 8
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 3
+adc_data[4] = 1
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 4
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 4
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 2
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 2
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 3000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1

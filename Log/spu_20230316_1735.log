@@ -1,0 +1,869 @@
+‚ƒ‡ÄIFˆRóadc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = -9905
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = -9905
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 143
+adc_data[4] = 52
+adc_data[5] = 2508
+adc_data[6] = 2052
+DG_State.L_yh_real = 127
+SP_R = 0
+SP_RA = 1000
+pwm = 1000
+
+
+
+adc_data[3] = 141
+adc_data[4] = 61
+adc_data[5] = 2747
+adc_data[6] = 2249
+DG_State.L_yh_real = 140
+SP_R = -9905
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 144
+adc_data[4] = 59
+adc_data[5] = 2719
+adc_data[6] = 2221
+DG_State.L_yh_real = 138
+SP_R = -9862
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+SP_R = -9776
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 86
+adc_data[4] = 24
+adc_data[5] = 1512
+adc_data[6] = 1307
+DG_State.L_yh_real = 81
+SP_R = 0
+SP_RA = 1000
+pwm = 2500
+
+
+
+adc_data[3] = 174
+adc_data[4] = 54
+adc_data[5] = 2452
+adc_data[6] = 1765
+DG_State.L_yh_real = 109
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 172
+adc_data[4] = 54
+adc_data[5] = 2440
+adc_data[6] = 1755
+DG_State.L_yh_real = 109
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 174
+adc_data[4] = 52
+adc_data[5] = 2444
+adc_data[6] = 1755
+DG_State.L_yh_real = 109
+SP_R = -9862
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 25
+adc_data[4] = 274
+adc_data[5] = 3798
+adc_data[6] = 3805
+DG_State.L_yh_real = 236
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 12
+adc_data[4] = 372
+adc_data[5] = 3806
+adc_data[6] = 3803
+DG_State.L_yh_real = 236
+SP_R = 0
+SP_RA = 1000
+pwm = 5500
+
+
+
+adc_data[3] = 51
+adc_data[4] = 611
+adc_data[5] = 3783
+adc_data[6] = 3799
+DG_State.L_yh_real = 236
+SP_R = -9862
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+SP_R = 0
+SP_RA = 1000
+pwm = 9000
+
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 3
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 3
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 13
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 14
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 8
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 8
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 9
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 3
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 6
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 6
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 9
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 9
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 2
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 1
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 3
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 0
+adc_data[4] = 0
+adc_data[5] = 0
+adc_data[6] = 0
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1
+adc_data[4] = 0
+adc_data[5] = 1
+adc_data[6] = 1
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 174
+adc_data[4] = 672
+adc_data[5] = 860
+adc_data[6] = 150
+DG_State.L_yh_real = 9
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 154
+adc_data[4] = 626
+adc_data[5] = 733
+adc_data[6] = 127
+DG_State.L_yh_real = 7
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 41
+adc_data[4] = 5
+adc_data[5] = 1
+adc_data[6] = 15
+DG_State.L_yh_real = 1
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 172
+adc_data[4] = 817
+adc_data[5] = 493
+adc_data[6] = 72
+DG_State.L_yh_real = 4
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 115
+adc_data[4] = 751
+adc_data[5] = 667
+adc_data[6] = 144
+DG_State.L_yh_real = 9
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1117
+adc_data[4] = 1243
+adc_data[5] = 1187
+adc_data[6] = 935
+DG_State.L_yh_real = 58
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 2161
+adc_data[4] = 1126
+adc_data[5] = 2299
+adc_data[6] = 1712
+DG_State.L_yh_real = 106
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 2246
+adc_data[4] = 1141
+adc_data[5] = 2416
+adc_data[6] = 1778
+DG_State.L_yh_real = 110
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 2171
+adc_data[4] = 1115
+adc_data[5] = 2310
+adc_data[6] = 1709
+DG_State.L_yh_real = 106
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 2146
+adc_data[4] = 1143
+adc_data[5] = 2213
+adc_data[6] = 1656
+DG_State.L_yh_real = 103
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1683
+adc_data[4] = 1028
+adc_data[5] = 309
+adc_data[6] = 623
+DG_State.L_yh_real = 38
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 3142
+adc_data[4] = 2499
+adc_data[5] = 3573
+adc_data[6] = 1857
+DG_State.L_yh_real = 116
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1964
+adc_data[4] = 1528
+adc_data[5] = 2384
+adc_data[6] = 1446
+DG_State.L_yh_real = 90
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 925
+adc_data[4] = 1495
+adc_data[5] = 1478
+adc_data[6] = 1277
+DG_State.L_yh_real = 78
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1793
+adc_data[4] = 810
+adc_data[5] = 2597
+adc_data[6] = 1230
+DG_State.L_yh_real = 76
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 2023
+adc_data[4] = 910
+adc_data[5] = 3643
+adc_data[6] = 1447
+DG_State.L_yh_real = 89
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 669
+adc_data[4] = 18
+adc_data[5] = 1143
+adc_data[6] = 902
+DG_State.L_yh_real = 56
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1898
+adc_data[4] = 888
+adc_data[5] = 212
+adc_data[6] = 512
+DG_State.L_yh_real = 31
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 458
+adc_data[4] = 1241
+adc_data[5] = 656
+adc_data[6] = 846
+DG_State.L_yh_real = 52
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 451
+adc_data[4] = 1246
+adc_data[5] = 656
+adc_data[6] = 846
+DG_State.L_yh_real = 52
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 2287
+adc_data[4] = 987
+adc_data[5] = 175
+adc_data[6] = 483
+DG_State.L_yh_real = 30
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 3013
+adc_data[4] = 1218
+adc_data[5] = 318
+adc_data[6] = 639
+DG_State.L_yh_real = 39
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1658
+adc_data[4] = 675
+adc_data[5] = 2966
+adc_data[6] = 1164
+DG_State.L_yh_real = 72
+pid_steering.PID_STEERING_OUT=650  
+
+
+adc_data[3] = 1167
+adc_data[4] = 308
+adc_data[5] = 2627
+adc_data[6] = 426
+DG_State.L_yh_real = 26
+pid_steering.PID_STEERING_OUT=650  
+
+
